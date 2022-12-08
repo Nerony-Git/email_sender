@@ -1,5 +1,6 @@
 import smtplib
 
+
 #Get the recipient's email account 
 receiver = input("Enter the recipient's email: \n")
 
